@@ -27,5 +27,4 @@ values  ("John","Doe",1,null),
         ("Barry","Allen",8,2),
         ("Khada","Jhin",9,2);
         
-        
 select * from departments;
